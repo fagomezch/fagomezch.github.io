@@ -1,0 +1,2 @@
+(self["webpackChunkui_test"]=self["webpackChunkui_test"]||[]).push([[443],{9211:function(t,u,n){"use strict";n.r(u),n.d(u,{default:function(){return c}});var e=n(6252),s={class:"about"},a=(0,e.Wm)("h1",null,"This is an about page",-1);function r(t,u){return(0,e.wg)(),(0,e.j4)("div",s,[a])}const i={};i.render=r;var c=i}}]);
+//# sourceMappingURL=about.4684b927.js.map
